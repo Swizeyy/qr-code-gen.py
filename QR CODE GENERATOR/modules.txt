@@ -1,0 +1,7 @@
+
+colorama
+qrcode
+qrtools
+PILLOW
+pyzbar
+slowprint.slowprint

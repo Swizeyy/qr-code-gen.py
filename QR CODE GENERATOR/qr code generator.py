@@ -1,5 +1,4 @@
 from colorama import Fore
-from pyfade import Fade
 import qrcode
 import sys, qrcode
 from qrcode import main
